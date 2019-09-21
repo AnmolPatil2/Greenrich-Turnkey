@@ -13,5 +13,10 @@ export default {
 </script>
 <style scoped>
 .image1 {
+  position: absolute;
+  top: 10;
+  left: 0;
+  width: 100%;
+  height: 100vh;
 }
 </style>
